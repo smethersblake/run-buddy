@@ -332,6 +332,7 @@ font-size: 16px;
     }
     .step h3 {
         flex: 1 100%;
+        text-align: center;
     }
     .step-info {
         flex: 2 100%;
@@ -343,6 +344,11 @@ font-size: 16px;
         margin-right: 0px;
         margin-top: 15px;
         margin-bottom: 15px;
+    }
+    .step-text{
+        flex: 100%;
+    }
+        
     }
     @media screen and (max-width: 575px) {
         .hero-form button {
@@ -367,4 +373,3 @@ font-size: 16px;
             order: 3;
         }
     }
-}
