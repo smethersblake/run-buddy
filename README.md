@@ -13,4 +13,4 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by [Blake Smethers]
 
-# Run Buddy inc.
+### ©️2019 Run Buddy, Inc
